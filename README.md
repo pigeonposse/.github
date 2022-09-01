@@ -1,1 +1,2 @@
-# Pigeon Posse Config file
+# 🐦 Pigeon Posse Config
+This is repository for the Github Configuration ✨✨
