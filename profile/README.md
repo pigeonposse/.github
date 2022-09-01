@@ -1,6 +1,6 @@
 ## 💻🕊️ About us
 
-PigeonPosse is a creative web development collective focused on creating innovative tools and plugins that helpboth the creators and their users to enjoy a comfortable experience.Our projects cover various sectors of both the multimedia world and programming (construction of web spaces or apps), providing an elegant and effective solution both in code and visually
+PigeonPosse is a ✨ code development collective ✨ focused on creating practical and interesting tools that help developers and users enjoy a more agile and comfortable experience. Our projects cover various programming sectors and we do not have a thematic limitation in terms of projects.
 
 ## 🌈 Contribution guidelines
 
