@@ -5,7 +5,6 @@
 <br>
 
 1. [About us](#-about-us) 
-  - [Founders](#-founders) 
 2. [Projects](#-projects) 
 3. [Code philosophy](#-code-philosophy) 
 4. [Development contribution](#-development-contribution) 
