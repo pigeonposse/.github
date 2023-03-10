@@ -4,12 +4,11 @@
 <summary>Index</summary>
 <br>
 
-1. [About us](#-about-us) 
-2. [Projects](#-projects) 
-3. [Code philosophy](#-code-philosophy) 
-4. [Development contribution](#-development-contribution) 
-5. [Donate](#-donate) 
-6. [Contact](#-contact) 
+-  [About us](#-about-us) 
+-  [Projects](#-projects) 
+- [Development contribution](#-development-contribution) 
+-  [Donate](#-donate) 
+-  [Contact](#-contact) 
 
 </details>
 
