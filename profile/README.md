@@ -35,6 +35,7 @@ Explore our projects.
 | <img src="https://github.com/PigeonPosse.png?size=72"/>   | [![Name](https://img.shields.io/badge/dynamic/json?label=&color=black&query=name&url=https%3A%2F%2Fapi.github.com/orgs/PigeonPosse&style=flat-square)](https://github.com/PigeonPosse) | [![Repos](https://img.shields.io/badge/dynamic/json?label=&color=black&query=public_repos&url=https%3A%2F%2Fapi.github.com/orgs/pigeonposse&style=flat-square)](https://github.com/pigeonposse?tab=repositories)    |
 
 
+<!--
 ## 📋 Code philosophy
 
 As a collective we have our development philosophy for create projects.
@@ -43,7 +44,7 @@ This philosophy is based on two simple points:
 - Difficult tasks should be broken down into simpler tasks.
 
 To put this philosophy into practice we also try to comply with the [SOLID](https://es.wikipedia.org/wiki/SOLID) principles.
-
+-->
 ## 👨‍💻 Development contribution
 
 ### 💌 Collaborate with a personal project
