@@ -1,0 +1,22 @@
+
+###############################################################################
+# FOR PIGEONPOSSE USAGE
+###############################################################################
+
+funding: 
+  - KoFi: 
+      url: "https://ko-fi.com/pigeonposse"
+      iframe: '<iframe id="kofiframe" loading="lazy" src="https://ko-fi.com/pigeonposse/?hidefeed=true&amp;widget=true&amp;embed=true&amp;preview=true" ></iframe>'
+  - GitHub: 
+      url: "https://github.com/sponsors/pigeonposse/dashboard"
+  - Web: 
+      url: "{{orgData.blog}}?popup=donate"
+  
+social:
+
+  - Twiiter: "https://twitter.com/pigeonposse_"
+  - Instgram: "https://www.instagram.com/pigeon.posse/"
+  - email: "{{orgData.email}}"
+
+
+###############################################################################
