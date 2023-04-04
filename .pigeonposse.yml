@@ -17,8 +17,8 @@ funding:
       url: "{{orgData.blog}}?popup=donate"
   
 social:
-  - twiiter: "https://twitter.com/pigeonposse_"
-  - instgram: "https://www.instagram.com/pigeon.posse/"
+  - twitter: "https://twitter.com/pigeonposse_"
+  - instagram: "https://www.instagram.com/pigeon.posse/"
   - email: "{{orgData.email}}"
 
 
