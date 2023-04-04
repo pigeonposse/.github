@@ -3,6 +3,10 @@
 # FOR PIGEONPOSSE USAGE
 ###############################################################################
 
+about:
+  description_page: https://github.com/pigeonposse/.github/tree/main/profile
+  description_long: PigeonPosse is a ✨ code development collective ✨ focused on creating practical and interesting tools that help developers and users enjoy a more agile and comfortable experience. Our projects cover various programming sectors and we do not have a thematic limitation in terms of projects.
+
 funding: 
   - KoFi: 
       url: "https://ko-fi.com/pigeonposse"
