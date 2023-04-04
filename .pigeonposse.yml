@@ -8,18 +8,24 @@ about:
   descriptionLong: PigeonPosse is a ✨ code development collective ✨ focused on creating practical and interesting tools that help developers and users enjoy a more agile and comfortable experience. Our projects cover various programming sectors and we do not have a thematic limitation in terms of projects.
 
 funding: 
-  - kofi: 
+  kofi: 
       url: "https://ko-fi.com/pigeonposse"
       iframe: '<iframe id="kofiframe" loading="lazy" src="https://ko-fi.com/pigeonposse/?hidefeed=true&amp;widget=true&amp;embed=true&amp;preview=true" ></iframe>'
-  - github: 
+  github: 
       url: "https://github.com/sponsors/pigeonposse/dashboard"
-  - web: 
+  web: 
       url: "{{orgData.blog}}?popup=donate"
   
 social:
-  - twitter: "https://twitter.com/pigeonposse_"
-  - instagram: "https://www.instagram.com/pigeon.posse/"
-  - email: "{{orgData.email}}"
+  twitter: 
+    name: "Twitter"
+    url: "https://twitter.com/pigeonposse_"
+  instagram: 
+    name: "Instagram"
+    url: "https://www.instagram.com/pigeon.posse/"
+  email: 
+    name: "Email"
+    url: "mailto://{{orgData.email}}"
 
 
 ###############################################################################
