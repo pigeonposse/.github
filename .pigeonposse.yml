@@ -9,11 +9,14 @@ about:
 
 funding: 
   kofi: 
+      name: Ko-fi
       url: "https://ko-fi.com/pigeonposse"
       iframe: '<iframe id="kofiframe" loading="lazy" src="https://ko-fi.com/pigeonposse/?hidefeed=true&amp;widget=true&amp;embed=true&amp;preview=true" ></iframe>'
   github: 
+      name: GitHub
       url: "https://github.com/sponsors/pigeonposse/dashboard"
   web: 
+      name: Web
       url: "{{orgData.blog}}?popup=donate"
   
 social:
