@@ -30,5 +30,8 @@ social:
     name: "Email"
     url: "mailto://{{orgData.email}}"
 
-
+assets:
+  defaultLogoRepo: "https://raw.githubusercontent.com/pigeonposse/.github/main/logoRepo.png"
+  
+  
 ###############################################################################
