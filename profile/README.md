@@ -1,4 +1,4 @@
-# 🕊️ Pigeon Posse Collective
+# Pigeon Posse Collective 🐦🌈
 
 <details open>
 <summary>Index</summary>
