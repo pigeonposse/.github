@@ -1,3 +1,6 @@
 github: [pigeonposse, pigeon-posse]
 ko_fi: pigeonposse
-custom: ['pigeonposse.com/?popup=donate']
+open_collective: pigeonposse
+custom:
+  - 'pigeonposse.com/?popup=donate'
+
