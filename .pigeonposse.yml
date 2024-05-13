@@ -26,6 +26,9 @@ social:
   instagram: 
     name: "Instagram"
     url: "https://www.instagram.com/pigeon.posse/"
+  medium: 
+    name: "Medium"
+    url: "https://medium.com/@pigeonposse"
   email: 
     name: "Email"
     url: "mailto://{{orgData.email}}"
