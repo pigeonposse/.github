@@ -32,7 +32,7 @@ social:
     name: "Email"
     url: "mailto:{{orgData.email}}"
 
-featRepps:
+featRepos:
   - bepp
   - super8
   - clippo
