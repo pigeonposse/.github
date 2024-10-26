@@ -15,4 +15,6 @@ If you find a security vulnerability in one of our projects, we ask that you fol
 
 We take security seriously and perform regular security updates on our projects. To stay on top of security updates, make sure you have notifications enabled for the relevant repositories in our organization.
 
+---
+
 with ♥️ PigeonPosse.
