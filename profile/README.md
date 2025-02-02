@@ -23,7 +23,7 @@ Our projects cover various programming sectors and we do not have a thematic lim
 | -------------------------------------------------------- | ------------- | ---------------------------------------------- |
 | <img src="https://github.com/AngelEspejo.png?size=72" /> | Ángel Espejo  | [@AngelEspejo](https://github.com/AngelEspejo) |
 | <img src="https://github.com/AlejoMalia.png?size=72"/>   | Alejo Malia   | [@AlejoMalia](https://github.com/AlejoMalia)   |
-| <img src="https://github.com/irfaelo.png?size=72" />     | Ignacio Malia | [@irfaelo](https://github.com/irfaelo)         |
+| <img src="https://github.com/irfaelo.png?size=72" />     | Ignacio Ramos | [@irfaelo](https://github.com/irfaelo)         |
 
 ## 🏗 Projects
 
